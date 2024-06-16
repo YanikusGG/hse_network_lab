@@ -1,0 +1,10 @@
+VPC2> show ip
+
+NAME        : VPC2[1]
+IP/MASK     : 10.0.20.2/24
+GATEWAY     : 10.0.20.1
+DNS         :
+MAC         : 00:50:79:66:68:03
+LPORT       : 20000
+RHOST:PORT  : 127.0.0.1:30000
+MTU         : 1500
